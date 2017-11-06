@@ -8,9 +8,9 @@ a POC for GoCD plugin store
 
     `git clone https://github.com/GaneshSPatil/gocd-plugin-store-poc gocd-plugin-store`
 
-2. Checkout GoCD Server plugin-store-poc branch
+2. Checkout GoCD Server `plugin-store-poc` branch
 
-    `git clone https://github.com/GaneshSPatil/gocd/tree/plugin-store-poc`
+    `git clone https://github.com/GaneshSPatil/gocd --branch=plugin-store-poc`
 
 3. Start GoCD plugin store
 
