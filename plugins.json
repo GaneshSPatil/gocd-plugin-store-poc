@@ -1,0 +1,23 @@
+{
+	"count": 2,
+	"plugins": {
+		"plugin_id_1": {
+			"name": "Docker Elastic Agent Plugin",
+			"description": "Docker Elastic agent plugin for GoCD",
+			"version": "v0.8.0",
+			"readmore_url": "https://github.com/gocd-contrib/docker-elastic-agents",
+			"author_url": "https://github.com/gocd-contrib",
+			"author_name": "GoCD Contributors",
+			"download_url": "https://github.com/gocd-contrib/docker-elastic-agents/releases/download/v0.8.0/docker-elastic-agents-0.8.0.jar"
+		},
+		"plugin_id_2": {
+			"name": "Docker Swarm Elastic Agent Plugin",
+			"description": "Docker Swarm Elastic agent plugin for GoCD",
+			"version": "v2.2.0",
+			"readmore_url": "https://github.com/gocd-contrib/docker-swarm-elastic-agents",
+			"author_url": "https://github.com/gocd-contrib",
+			"author_name": "GoCD Contributors",
+			"download_url": "https://github.com/gocd-contrib/docker-swarm-elastic-agents/releases/download/v2.2.0/docker-swarm-elastic-agents-2.2.0.jar"
+		}
+	}
+}
